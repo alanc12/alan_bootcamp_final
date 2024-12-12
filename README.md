@@ -1,2 +1,2 @@
 # alan_bootcamp_final
-hefow
+Final project for NYU Data Bootcamp - Alan
